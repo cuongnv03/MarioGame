@@ -1,0 +1,2 @@
+C:/Users/CUONG/Downloads/STM32F429I-DISC1-DINOGAME/DinoGame/TouchGFX/generated/images/src/BitmapDatabase.cpp:53:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	1
+C:/Users/CUONG/Downloads/STM32F429I-DISC1-DINOGAME/DinoGame/TouchGFX/generated/images/src/BitmapDatabase.cpp:58:10:uint16_t BitmapDatabase::getInstanceSize()	1
